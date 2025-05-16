@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/pavan-galla/Leetcode/tree/master/0072-edit-distance) |
+## Array
+|  |
+| ------- |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/pavan-galla/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+## Math
+|  |
+| ------- |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/pavan-galla/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+## Simulation
+|  |
+| ------- |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/pavan-galla/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->
