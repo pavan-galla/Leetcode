@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/pavan-galla/Leetcode/tree/master/0064-minimum-path-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/pavan-galla/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/pavan-galla/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
