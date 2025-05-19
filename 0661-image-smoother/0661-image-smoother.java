@@ -4,7 +4,7 @@ public class Solution {
         int n = img[0].length;
         int[][] result = new int[m][n];
 
-        // Directions array for all 8 neighbors + the cell itself
+       
         int[] dx = {-1, -1, -1, 0, 0, 0, 1, 1, 1};
         int[] dy = {-1, 0, 1, -1, 0, 1, -1, 0, 1};
 
@@ -13,7 +13,7 @@ public class Solution {
                 int sum = 0;
                 int count = 0;
 
-                // Loop through all 9 positions
+                
                 for (int k = 0; k < 9; k++) {
                     int x = i + dx[k];
                     int y = j + dy[k];
@@ -24,7 +24,7 @@ public class Solution {
                     }
                 }
 
-                result[i][j] = sum / count; // floor division
+                result[i][j] = sum / count; 
             }
         }
 
