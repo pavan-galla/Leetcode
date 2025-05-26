@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/pavan-galla/Leetcode/tree/master/0050-powx-n) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/pavan-galla/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Simulation
 |  |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/pavan-galla/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/pavan-galla/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
