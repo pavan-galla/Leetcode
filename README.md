@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/pavan-galla/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/pavan-galla/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/pavan-galla/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0838-design-linked-list](https://github.com/pavan-galla/Leetcode/tree/master/0838-design-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pavan-galla/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/pavan-galla/Leetcode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
